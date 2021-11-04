@@ -1,0 +1,103 @@
+
+        
+       .botoes {
+       
+            background-color: #775144;
+            color: white;
+            padding: 10px 30px;
+            text-align: center;
+            text-decoration: none;
+            width: 400px;
+            border-radius:4px;
+            margin: auto;
+            display: block;
+    
+        }
+        
+        .botoes:hover {
+            background-color: #212529;
+        }
+        
+        body {
+            background-color: #F5F5F5;
+            font-family: 'Nunito', sans-serif;;
+            padding: 30px;
+            
+        }
+        
+        .botoes {
+            background-color: #ADB5BD;
+            color: white;
+            padding: 5px 30px;
+            text-align: center;
+            text-decoration: none;
+            width: 400px;
+            border-radius:4px;
+            margin: auto;
+            display: block;
+        }
+        
+        
+        .social1 {
+            background-color: #0a66c2;
+            color: #ffffff;
+            text-decoration: none;
+            margin: auto;
+            font-size: 16px;
+            border-radius:5% ;
+            padding: 5px;
+           position: absolute;
+           left: 140px;
+           top: 709px;
+ 
+        }
+        
+        .social2 {
+            background-color: black;
+            color: rgb(219, 219, 219);
+            text-decoration: none;
+            margin: auto;
+            font-size: 16px;
+            border-radius:5% ;
+            padding: 5px;
+      
+ 
+        }
+        
+        h3 {
+            color: #6C757D;
+        }
+       
+        .container2 {
+            height: 420px;
+        }
+
+        #sabrina {
+            float: left;
+            height: 400px;
+            padding: 10px;
+            background-color: #495057;
+        }
+
+        .name{
+            text-align: center;
+            color: #6C757D;
+        }
+
+        .sobre {
+            position: absolute;
+            left: 430px;
+            right:90px ;
+            top:60%
+        }
+
+        
+
+
+
+      
+        
+       
+
+
+
